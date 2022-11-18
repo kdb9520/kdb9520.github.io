@@ -1,4 +1,10 @@
-@import url("https://use.typekit.net/jmk3xov.css");
+html,
+body {
+  margin: 0px;
+  overflow: hidden;
+}
+
+/* @import url("https://use.typekit.net/jmk3xov.css");
 
 canvas {
   position: fixed;
@@ -78,4 +84,4 @@ canvas {
 
   .left {
     grid-column: 6 / 12;
-  }
+  } */
